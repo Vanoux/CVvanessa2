@@ -1,0 +1,65 @@
+#cv {
+    width: 672px;
+    height: 950px;
+    background: linear-gradient(SandyBrown, white);
+    border: 2px solid black;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1 {
+    color: SaddleBrown;
+    text-shadow: 0.5px 0 0 black, 0.5px 0 black, 0 -0.5px 0 black, -0.5px 0 0 black;
+    margin-left: 10px;
+    margin-bottom: 1px;
+}
+#info {
+    margin-right: 380px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+    padding-bottom: 0.5px;
+    background-color: peachpuff;
+    border-radius: 10px;
+}
+#citation {
+    float: right;
+    margin-top: -245px;
+    margin-left: 400px;
+    margin-right: 10px;
+    background-color: papayawhip;
+    border-style:ridge;
+    border-radius: 40px; 
+    text-align: center;
+}
+h2 {
+    text-align: center;   
+    background-color: papayawhip;
+    color: SaddleBrown;
+    margin: 10px 5px 10px 5px;
+    padding-top: 2px;
+    
+}
+.parties {
+    color: darkorange;
+    margin-left: 10px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+ol {
+    margin-left: -40px;
+}
+p {
+    margin-left: 10px;
+}
+#passion {
+    margin-right: 400px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+.anecdote {
+    float: right;
+    text-align:left;
+    font-style: italic;
+    border: 3px dotted SaddleBrown;
+    margin-top: -110px;
+    margin-left: 400px;
+    margin-right: 10px;    
+}
